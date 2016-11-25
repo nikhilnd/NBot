@@ -3,10 +3,6 @@ const bot = new Discord.Client();
 
 const token = 'MjUwODAwMDE4ODg0MTMyODY0.CxaIoQ.RQoEI3VK9uLImfJ-H4KHpq-4xdU';
 
-var cleverbot = require('cleverbot.io');
-var cleverBot = new cleverbot('fmRm0vshff1rDBY5','QxlwlHjAZDeZsfMBBBobMleeALhCD1Jy');
-var cleverOn = false;
-
 var fs = require('fs');
 
 // Config Includs:
